@@ -161,15 +161,14 @@ We randomly divided the CMLGED into 5 parts. The following experiment used these
 ## Citation 引用
 Please cite the following papers if you use the CMLGED:
 
-Tzu-Mi Lin, Chao-Yi Chen, Lung-Hao Lee, and Yuen-Hsien Tseng. 2022. Evaluating the performance of Chinese multi-Label grammatical error detection using deep neural networks. In Proceddings of the 30<sup>th</sup> International Conference on Computers in Education. Asia-Pacific Society for Computers in Education, pages .
+Tzu-Mi Lin, Chao-Yi Chen, Lung-Hao Lee, and Yuen-Hsien Tseng. 2022. Evaluating the performance of Chinese multi-Label grammatical error detection using deep neural networks. *Proceddings of the 30<sup>th</sup> International Conference on Computers in Education. Asia-Pacific Society for Computers in Education*, pages 524-526.
 
 @article{LIN-ICCE-2022,<br>
          author={Tzu-Mi Lin, Chao-Yi Chen, Lung-Hao Lee, and Yuen-Hsien Tseng},<br>
-         title={Evaluating the performance of Chinese multi-Label grammatical error detection using deep neural networks.},<br>
+         title={Evaluating the performance of Chinese multi-Label grammatical error detection using deep neural networks},<br>
          year={2022},<br>
-         journal={In Proceddings of the 30<sup>th</sup> International Conference on Computers in Education. Asia-Pacific Society for Computers in Education.},<br>
-         pages={},<br>
-         DOI={}<br>
+         journal={In Proceddings of the 30<sup>th</sup> International Conference on Computers in Education. Asia-Pacific Society for Computers in Education},<br>
+         pages={524-526},<br>
 }
 ## Reference 參考資料
 Piotr Bojanowski, Edouard Grave, Armand Joulin, and Tomas Mikolov. 2017. Enriching Word Vectors with Subword Information. Transactions of the Association for            Computational Linguistics, 5:135–146.<br>
